@@ -1,0 +1,93 @@
+.header>nav>ul>li {
+    text-align: center;
+    display: inline;
+    margin-right: 80px;
+}
+.header>nav>ul>li>a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+
+}
+.header>nav {
+    text-align: center;
+    padding-top: 5px;
+}
+.header {
+    background-image: url(./images/bg.jpg);
+    width: 1250px;
+    height: 600px;
+    background-size: cover;
+    
+}
+.header>button {
+    margin-left: 740px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: rgb(181, 40, 40);
+    width: 100px;
+    height: 30px;
+    border: none;
+}
+.header>button>a {
+    color: white;
+    font-size: 100%;
+}
+#ar{
+    margin-top: 50px;
+    margin-left: 30px;
+    }
+ figure>img{
+    height: 500px;
+    width: 1190px;
+       }
+ 
+    
+
+     
+.dn > nav>ul>li>img {
+   
+    width: 100px;
+    height: 200px;}
+.dn > nav > ul > li{
+    display: inline;}
+.down {
+    background-image: url(images/al-fardan-jewellery.jpg);
+    background-size: cover;
+    width: 1250px;
+    height: 500px;  }
+ .down >h2{
+    text-align: center;
+    color: rgb(181, 40, 40);}
+ .down >p{  
+    text-align: center;
+    color: white;}
+#ht>input {
+    display: inline;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 300px;
+    height: 35px; }
+#ht{
+    text-align: center;
+}
+.s >button{
+    margin-top: 30px;
+    width: 400px;
+    height: 35px;
+    font-size: large;
+    color: aliceblue;
+    background-color: rgb(181, 40, 40);
+    border-radius: 5px;
+    border-color: white;   
+}
+.s{
+    text-align: center;
+}
+footer>p{
+    color: black;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
